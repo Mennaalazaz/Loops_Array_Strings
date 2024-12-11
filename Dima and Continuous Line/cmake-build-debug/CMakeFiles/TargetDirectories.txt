@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Dima and Continuous Line/cmake-build-debug/CMakeFiles/Dima_and_Continuous_Line.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Dima and Continuous Line/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Dima and Continuous Line/cmake-build-debug/CMakeFiles/rebuild_cache.dir
