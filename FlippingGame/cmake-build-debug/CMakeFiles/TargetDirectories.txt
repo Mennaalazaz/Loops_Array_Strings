@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Loops_Array_Strings/FlippingGame/cmake-build-debug/CMakeFiles/FlippingGame.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/FlippingGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/FlippingGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
