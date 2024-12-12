@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Subsequence String/cmake-build-debug/CMakeFiles/Subsequence_String.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Subsequence String/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Subsequence String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
