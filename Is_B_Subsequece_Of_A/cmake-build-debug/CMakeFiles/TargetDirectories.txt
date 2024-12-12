@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Is_B_Subsequece_Of_A/cmake-build-debug/CMakeFiles/Is_B_Subsequece_Of_A.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Is_B_Subsequece_Of_A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Loops_Array_Strings/Is_B_Subsequece_Of_A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
