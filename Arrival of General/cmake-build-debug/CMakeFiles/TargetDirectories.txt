@@ -1,3 +1,0 @@
-C:/Users/pc/CLionProjects/Loops_Array_Strings/Arrival of General/cmake-build-debug/CMakeFiles/Arrival_of_General.dir
-C:/Users/pc/CLionProjects/Loops_Array_Strings/Arrival of General/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/pc/CLionProjects/Loops_Array_Strings/Arrival of General/cmake-build-debug/CMakeFiles/rebuild_cache.dir
